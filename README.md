@@ -39,3 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 //
  python -m venv venv/ 
  npm run fastapi-dev
+//
+
+![image](https://github.com/chinhnguyendac01/Youtube-video-comment-Next.js-NextAuth-TailwindCSS-FastAPI-HumeAI-/assets/101082005/a42d26d2-65b2-4894-9d8c-cc6d0f4ff868)
