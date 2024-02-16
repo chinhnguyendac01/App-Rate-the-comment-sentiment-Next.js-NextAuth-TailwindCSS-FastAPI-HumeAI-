@@ -41,4 +41,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
  npm run fastapi-dev
 //
 
-![image](https://github.com/chinhnguyendac01/Youtube-video-comment-Next.js-NextAuth-TailwindCSS-FastAPI-HumeAI-/assets/101082005/a42d26d2-65b2-4894-9d8c-cc6d0f4ff868)
+![image](https://github.com/chinhnguyendac01/Youtube-video-comment-Next.js-NextAuth-TailwindCSS-FastAPI-HumeAI-/assets/101082005/25279675-ff4d-4cea-a9e4-4b0a87b3c97b)
+
